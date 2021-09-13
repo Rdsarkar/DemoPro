@@ -34,6 +34,7 @@ namespace demoPro
 
             modelBuilder.Entity<Color>(entity =>
             {
+                //entity.HasKey(e => new { e.Id, e.Name });
                 entity.ToTable("colors");
 
                 entity.Property(e => e.Id).HasColumnName("id");

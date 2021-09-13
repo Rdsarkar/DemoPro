@@ -7403,11 +7403,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\demo\\demoPro\\demoPro\\demoPro.csproj",
+      "projectUniqueName": "D:\\DemoPro\\demoPro\\demoPro\\demoPro.csproj",
       "projectName": "demoPro",
-      "projectPath": "D:\\demo\\demoPro\\demoPro\\demoPro.csproj",
+      "projectPath": "D:\\DemoPro\\demoPro\\demoPro\\demoPro.csproj",
       "packagesPath": "C:\\Users\\Satcom\\.nuget\\packages\\",
-      "outputPath": "D:\\demo\\demoPro\\demoPro\\obj\\",
+      "outputPath": "D:\\DemoPro\\demoPro\\demoPro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Satcom\\AppData\\Roaming\\NuGet\\NuGet.Config",
